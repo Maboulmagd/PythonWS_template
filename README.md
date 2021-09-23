@@ -4,6 +4,10 @@ A template/example using Python3 to connect/stream market data/updates from [Phe
 
 Disclaimer: Use at your own risk.
 
+Pitfalls/Features to add:
+
+1. Implement a way to manage heartbeats (ping/pong message correspondence), so as to keep the connection alive.
+
 Instructions:
 
 1. Clone the repository.
